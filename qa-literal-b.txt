@@ -1,0 +1,1 @@
+literal fresh B install: source 2343df83a3a26ae83bc66d4009dd67a913eeea4e, runtime Claude Code 2.1.317 permission-mode auto, state mode auto, beads true, case literal-b-complex-auto, date 2026-11-04
